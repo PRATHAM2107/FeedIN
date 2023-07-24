@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard_icon"
+        android:enabled="true"
+        android:icon="@drawable/dashboard_icon"
+        android:title="@string/dashboard"
+        android:visible="true" />
+    <item
+        android:id="@+id/request_icon"
+        android:enabled="true"
+        android:icon="@drawable/request_icon"
+        android:title="@string/request"
+        android:visible="true" />
+    <item
+        android:id="@+id/wallet_icon"
+        android:enabled="true"
+        android:icon="@drawable/wallet_icon"
+        android:title="@string/wallet"
+        android:visible="true" />
+    <item
+        android:id="@+id/profile_icon"
+        android:enabled="true"
+        android:icon="@drawable/account_icon"
+        android:title="@string/profile"
+        android:visible="true" />
+</menu>

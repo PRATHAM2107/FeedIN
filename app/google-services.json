@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594566946030",
+    "project_id": "feedin-ftvd69",
+    "storage_bucket": "feedin-ftvd69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594566946030:android:e1fef336c5b7f782bc27ff",
+        "android_client_info": {
+          "package_name": "com.faijan.feedin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594566946030-tc1d4gehbre4s43b0betoird1bim2rfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKd-9NmO0bKuPYXqvOPU3WDxLcsoB_ox0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594566946030-tc1d4gehbre4s43b0betoird1bim2rfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

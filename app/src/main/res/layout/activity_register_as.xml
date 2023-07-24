@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/PrimaryColor"
+    android:gravity="center_horizontal"
+     android:padding="30dp"
+    tools:context=".Register_As_Activity">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="266dp"
+        android:layout_height="128dp"
+        android:contentDescription="@string/feedin_image"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/feedin_logo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/nunito_sans_semibold"
+        android:text="Register as"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <android.widget.Button
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:id="@+id/donor_btn"
+        android:layout_marginTop="45dp"
+        android:background="@drawable/primary_button"
+        android:text="Donor" />
+
+    <android.widget.Button
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:id="@+id/volunteer_btn"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/primary_button"
+        android:text="Volunteer" />
+
+    <android.widget.Button
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:id="@+id/ngo_btn"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/primary_button"
+        android:text="NGO" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/login_user_link"
+        android:text="Already Register? Login Here"
+        android:layout_marginTop="80dp"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:fontFamily="@font/nunito_sans"/>
+
+</LinearLayout>

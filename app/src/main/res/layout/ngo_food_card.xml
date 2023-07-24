@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/card_shape_round"
+    android:backgroundTint="@color/white"
+    android:padding="10dp"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="0dp"
+    android:layout_marginBottom="15dp"
+    app:cardMaxElevation="0dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:layout_gravity="fill_horizontal"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="10dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/food_card_img"
+            android:layout_width="130dp"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:layout_weight="0"
+            android:background="@drawable/cornor_image_border"
+            android:clipToOutline="true"
+            android:scaleType="centerCrop"
+            app:shapeAppearanceOverlay="@style/RoundedSquare"
+            app:srcCompat="@drawable/loading_image" />
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_weight="0"
+            android:background="?android:attr/listDivider"
+            android:backgroundTint="@color/black"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/donor_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginLeft="0dp"
+                    android:fontFamily="@font/nunito_sans_semibold"
+                    android:gravity="center_vertical"
+                    android:text="Faijan Momin"
+                    android:textColor="@color/FontColor"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/donor_review"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="0dp"
+                    android:background="@drawable/rating_bg"
+                    android:drawableRight="@drawable/rating_star"
+                    android:drawablePadding="5dp"
+                    android:fontFamily="@font/nunito_sans_semibold"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="2dp"
+                    android:paddingRight="5dp"
+                    android:paddingBottom="2dp"
+                    android:text="4.0"
+                    android:textColor="@color/white" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/food_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginStart="0dp"
+                    android:fontFamily="@font/nunito_sans_semibold"
+                    android:gravity="center_vertical"
+                    android:text="Biryani"
+                    android:textColor="@color/FontSecondaryColor" />
+
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/food_distance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="1.2 km from your location"
+                android:textColor="@color/FontSecondaryColor" />
+
+            <TextView
+                android:id="@+id/best_before_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Best before 5 hrs"
+                android:textColor="@color/FontSecondaryColor" />
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

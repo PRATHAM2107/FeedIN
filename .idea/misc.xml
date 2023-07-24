@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/accept_food_btn.xml" value="0.1435" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/bottom_navbar.xml" value="0.1445" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/card_shape_round.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/circle_call_bg.xml" value="0.1555" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/cornor_image_border.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/flames_icon.xml" value="0.1435" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/flames_icon_30dp.xml" value="0.1435" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/history_icon.xml" value="0.1435" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/logout_logo.xml" value="0.1435" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/primary_button.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/profile_circle_bg.xml" value="0.1435" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/rating_bg.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/request_food_btn.xml" value="0.1435" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/drawable/white_radius_bgs.xml" value="0.1435" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_accepted_donation_details.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_donate_food.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_donation_details.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_donor_dashboard.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_loading.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_menu_layout.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_ngo_dashboard.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_register_as.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_register_as_donor.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_register_as_ngo.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_register_as_volunteer.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_thanks_message.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/activity_volunteer_dashboard.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/donor_donation_card.xml" value="0.11578947368421053" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/donor_request_food_card.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/fragment_dashboard_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/fragment_donor_dashboard_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/fragment_donor_request_fragment.xml" value="0.2359375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/fragment_history_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/fragment_profile_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/fragment_wallet_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/ngo_card_layout.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/ngo_food_card.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/recent_donation_food_card.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/recycler_view_item.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/transaction_card_layout.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/layout/tu.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/menu/dashboard_bottom_bar.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/menu/donor_dashboard_bottom_bar.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/menu/ngo_dashboard_bottom_bar.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FeedIN/app/src/main/res/menu/volunteer_dashboard_bottom_bar.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
