@@ -62,7 +62,7 @@
                     android:layout_marginLeft="0dp"
                     android:fontFamily="@font/nunito_sans_semibold"
                     android:gravity="center_vertical"
-                    android:text="Faijan Momin"
+                    android:text="pratham Momin"
                     android:textColor="@color/FontColor"
                     android:textSize="18sp" />
 

@@ -16,7 +16,7 @@
         android:layout_marginLeft="10dp"
         android:layout_gravity="left"
         android:fontFamily="@font/nunito_sans_semibold"
-        android:text="Hey,  Faijan"
+        android:text="Hey,  pratham"
         android:textColor="@color/white"
         android:textSize="16dp"/>
 
